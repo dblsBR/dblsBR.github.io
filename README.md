@@ -3,12 +3,12 @@ Hi, my name is Daniel and I am a Ph.D. candidate in the [Department of Industria
 
 You can reach me at: dlopesd@clemson.edu.
 
-My CV can be found here (last update July 2024): [CV_DanielSilva](https://github.com/dblsBR/dblsBR/blob/88bd5f824a1da54ff0c91cc62ff2fcac592f5c95/CV_DanielSilva.pdf), and here is my [Google Scholar page](https://scholar.google.com/citations?user=5xE4LwUAAAAJ&hl=pt-BR).
+My CV can be found here (last update July 2024): [CV_DanielSilva](https://github.com/dblsBR/dblsBR/blob/aea6925868bdd842cb063e438ec563fce51dbd57/CV_DanielSilva.pdf), and here is my [Google Scholar page](https://scholar.google.com/citations?user=5xE4LwUAAAAJ&hl=pt-BR).
 
 
 ### Updates (July 2024):
 * Our paper (with Dr. Kelly Sullivan, UARK) **An Optimization-Based Monte Carlo Method for Estimating the Two-Terminal Survival Signature of Networks with Two Component Classes** is published at [NRL](http://doi.org/10.1002/nav.22218).
-* I will teach **IE3800 - Deterministic Operations Research** in the upcoming Fall semester.
+* I am teaching **IE3800 - Deterministic Operations Research** this Fall semester and I am extremely excited about it!
 * I compelted the [Traiblazers in Engineering](https://engineering.purdue.edu/Engr/Trailblazers) program and I am now an offical [fellow](https://engineering.purdue.edu/Engr/Trailblazers/Fellows/2024/Lopes) of the class of 2024.
 * I successfully completed the IISE Future Faculty Fellow (3F) program, with the closing ceremonies being held the IISE Annual Conference & Expo in Montreal, Canada. This was a superb program, beyond all my expectations.  
 
@@ -33,7 +33,7 @@ University of Minnesota (advisor Dr. [Laura Martin](https://www.hhh.umn.edu/dire
 I started to work in this project during my M.S. degree with Dr. Kelly Sullivan at the University of Arkansas, and the original idea was for me to work on developing optimal deployment policies for heterogeneous wireless sensor networks (based on reliability, costs, etc.). Half way through, after reading a nice paper that introduced a *Dijkstra-like* bi-objective algorithm, we shifted focus and started to develop an optimization-based methodology to estimate the survival signature of a network with two component classes. The methodology turned out to be very efficient, flexible, and robust, opening the door for a lot of interesting lines for future investigation.
 
 **Papers:**
-* **Lopes da Silva, D.B., Sullivan, K.**, _An Optimization-Based Monte Carlo method for Estimating the Two-Terminal Survival Signature of Networks with Two Component Classes_ (_Forthcoming in_ Naval Research Logistics);
+* **Lopes da Silva, D.B., Sullivan, K.**, _An Optimization-Based Monte Carlo method for Estimating the Two-Terminal Survival Signature of Networks with Two Component Classes_ (Naval Research Logistics);
 * Chakrabarty, N., Sullivan, K., **Lopes da Silva, D.B.**, _Time-Based Redeployment of Multiclass Nodes for Reliable Wireless Sensor Network Coverage_ (Under review; revised version submitted in May 2024);
 
 ### Previous Research Activity:
@@ -46,6 +46,8 @@ I started to work in this project during my M.S. degree with Dr. Kelly Sullivan 
 
 
 ## Teaching
+
+I am teaching **IE3800 - Deterministic Operations Research** in the Department of Industrial Engineering at Clemson University and I am extremely excited about it. The course is one of the most interesting and engaging and I love to plan the lectures, work on the examples and codes, give lectures and student hours.
 
 I love to teach and I learn a lot by teaching! My first official experience with teaching was when I was in high school. I attended a great technical institute in Brazil, the [Federal Institute of Education, Science, and Technology (Federal Institute for short)](https://www2.ifal.edu.br/campus/palmeira), where I had the chance to be a teaching assistant for the physics class.
 
