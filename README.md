@@ -38,7 +38,7 @@ I started to work in this project during my M.S. degree with Dr. Kelly Sullivan 
 
 ### Previous Research Activity:
 - During my undegraduate capstone project, I investigated supply chain performance metrics and proposed a conceptual framework for performance evaluation. We published our results (in Portguese) the following paper:
-- **Lopes da Silva, D. B.** and G. Silva. Supply Chain Management and Performance: proposition of a conceptual model. _Exacta EP_, 2020. [Link](http://doi.org/10.5585/ExactaEP.v18n3.8612).
+*  **Lopes da Silva, D. B.** and G. Silva. Supply Chain Management and Performance: proposition of a conceptual model. _Exacta EP_, 2020. [Link](http://doi.org/10.5585/ExactaEP.v18n3.8612).
 
 ### Conference Papers (from my undergraduate years!)
 - Santos, A.C.J., **Lopes da Silva, D.B.**, B. R. Barros, J. A. Amorim. Contributions of cleaner production to a textile industry, in: *XXXIII National Meeting of Industrial Engineering (ENEGEP)*. Bento Goncalves-RS, Brazil, 2012.
