@@ -6,10 +6,10 @@ You can reach me at: dlopesd@clemson.edu.
 My CV can be found here (last update July 2024): [CV_DanielSilva](https://github.com/dblsBR/dblsBR/blob/aea6925868bdd842cb063e438ec563fce51dbd57/CV_DanielSilva.pdf), and here is my [Google Scholar page](https://scholar.google.com/citations?user=5xE4LwUAAAAJ&hl=pt-BR).
 
 
-### Updates (July 2024):
+### Updates (September 2024):
 * Our paper (with Dr. Kelly Sullivan, UARK) **An Optimization-Based Monte Carlo Method for Estimating the Two-Terminal Survival Signature of Networks with Two Component Classes** is published at [NRL](http://doi.org/10.1002/nav.22218).
 * I am teaching **IE3800 - Deterministic Operations Research** this Fall semester and I am extremely excited about it!
-* I compelted the [Traiblazers in Engineering](https://engineering.purdue.edu/Engr/Trailblazers) program and I am now an offical [fellow](https://engineering.purdue.edu/Engr/Trailblazers/Fellows/2024/Lopes) of the class of 2024.
+* I completed the [Traiblazers in Engineering](https://engineering.purdue.edu/Engr/Trailblazers) program and I am now an offical [fellow](https://engineering.purdue.edu/Engr/Trailblazers/Fellows/2024/Lopes) of the class of 2024.
 * I successfully completed the IISE Future Faculty Fellow (3F) program, with the closing ceremonies being held the IISE Annual Conference & Expo in Montreal, Canada. This was a superb program, beyond all my expectations.  
 
 
@@ -34,7 +34,7 @@ I started to work in this project during my M.S. degree with Dr. Kelly Sullivan 
 
 **Papers:**
 * **Lopes da Silva, D.B., Sullivan, K.**, _An Optimization-Based Monte Carlo method for Estimating the Two-Terminal Survival Signature of Networks with Two Component Classes_ (Naval Research Logistics);
-* Chakrabarty, N., Sullivan, K., **Lopes da Silva, D.B.**, _Time-Based Redeployment of Multiclass Nodes for Reliable Wireless Sensor Network Coverage_ (Under review; revised version submitted in May 2024);
+* Chakrabarty, N., Sullivan, K., **Lopes da Silva, D.B.**, _Time-Based Redeployment of Multiclass Nodes for Reliable Wireless Sensor Network Coverage_ (Forthcoming in Computers \& Industrial Engineering);
 
 ### Previous Research Activity:
 - During my undegraduate capstone project, I investigated supply chain performance metrics and proposed a conceptual framework for performance evaluation. We published our results (in Portguese) this [paper](https://periodicos.uninove.br/exacta/article/view/8612);
@@ -68,3 +68,11 @@ I am the current president of the INFORMS Student Chapter at Clemson University 
 During my undergraduate years at the [Federal Unviersity of Alagoas](https://ufal.br/) (Brazil), I was a member (and eventually the president) of the PET Engenharias [Facebook](https://www.facebook.com/petengenharias), [Instagram](https://www.instagram.com/pet.engenharias/), [Official Page](https://ufal.br/estudante/graduacao/programas/educacao-tutorial-pet/pet-engenharia) (Tutorial Education Program in Engineering), which consisted of a group of students guided by a faculty advisor and tasked with developing research, teaching, and outreach activities.
 
 During my four-year term at **PET Engenharias**, we did a lot of interesting (and fun) activities and events, including a mentoring program for first-year engineering students, itinerant STEM Fairs at local schools, prep course for a disadvantaged community, pre-calculus course for first-year students, seminars, and much more. See the old, bad-quality, awesome pictures below for a flavor of how awesome this program is!
+
+<img src="https://github.com/dblsBR/dblsBR/blob/0ae4fb3c44dbffc6dd47d898095f9fc415260fa3/PET_1.jpg" width="350">  <img src="https://github.com/dblsBR/dblsBR/blob/87b9e465b79273168bb9bf031e73874496d48892/PET_2.jpg" width="350"> <img src="https://github.com/dblsBR/dblsBR/blob/b46229ee65175837e00f6f75ee4781e6aef16205/PET_3.jpg" width="350"> <img src="https://github.com/dblsBR/dblsBR/blob/9cc7fb1d14fdc7bf489958918f100c4b7b44f47b/PET_4.jpg" width="350"> <img src="https://github.com/dblsBR/dblsBR/blob/78d0305432e33d6d4eae5279e5ebe0780496244a/PET_5.jpg" width="350"> <img src="https://github.com/dblsBR/dblsBR/blob/45f84e1225c63a5a03b075d3670a4dd2f5b59471/PET_6.jpg" width="350">
+
+<!---
+dblsBR/dblsBR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
