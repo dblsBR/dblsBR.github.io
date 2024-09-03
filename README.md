@@ -33,11 +33,11 @@ University of Minnesota (advisor Dr. [Laura Martin](https://www.hhh.umn.edu/dire
 I started to work in this project during my M.S. degree with Dr. Kelly Sullivan at the University of Arkansas, and the original idea was for me to work on developing optimal deployment policies for heterogeneous wireless sensor networks (based on reliability, costs, etc.). Half way through, after reading a nice paper that introduced a *Dijkstra-like* bi-objective algorithm, we shifted focus and started to develop an optimization-based methodology to estimate the survival signature of a network with two component classes. The methodology turned out to be very efficient, flexible, and robust, opening the door for a lot of interesting lines for future investigation.
 
 **Papers:**
-* **Lopes da Silva, D.B., Sullivan, K.**, _An Optimization-Based Monte Carlo method for Estimating the Two-Terminal Survival Signature of Networks with Two Component Classes_ (Naval Research Logistics);
+* **Lopes da Silva, D.B.**, Sullivan, K., _An Optimization-Based Monte Carlo method for Estimating the Two-Terminal Survival Signature of Networks with Two Component Classes_ (Naval Research Logistics);
 * Chakrabarty, N., Sullivan, K., **Lopes da Silva, D.B.**, _Time-Based Redeployment of Multiclass Nodes for Reliable Wireless Sensor Network Coverage_ (Forthcoming in Computers \& Industrial Engineering);
 
 ### Previous Research Activity:
-- During my undegraduate capstone project, I investigated supply chain performance metrics and proposed a conceptual framework for performance evaluation. We published our results (in Portguese) this [paper](https://periodicos.uninove.br/exacta/article/view/8612);
+- During my undegraduate capstone project, I investigated supply chain performance metrics and proposed a conceptual framework for performance evaluation. We published our results (in Portguese) this **Lopes da Silva, D. B.** and G. Silva. Supply Chain Management and Performance: proposition of a conceptual model. _Exacta EP_, 2020. \href{http://doi.org/10.5585/ExactaEP.v18n3.8612}{(Link)}
 
 ### Conference Papers (from my undergraduate years!)
 - Santos, A.C.J., **Lopes da Silva, D.B.**, B. R. Barros, J. A. Amorim. Contributions of cleaner production to a textile industry, in: *XXXIII National Meeting of Industrial Engineering (ENEGEP)*. Bento Goncalves-RS, Brazil, 2012.
