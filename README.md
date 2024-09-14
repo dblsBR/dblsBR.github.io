@@ -25,7 +25,7 @@ This is an incredible transdisciplinary project consisting of researchers (at al
 University of Minnesota (advisor Dr. [Laura Martin](https://www.hhh.umn.edu/directory/lauren-martin)), The Research Triangle Institute (Dr. [Kelle Barrick](https://www.rti.org/expert/kelle-barrick)), as well as a survivor-centered advisory group. 
 
 **Papers:**
-* **Lopes da Silva, D.B.**, Sharkey, T., Song, Y., _A Bi-level Network Interdiction Problem to Minimize the Number of Active Special Arcs in the Maximum Flow_ (We received a positive feedback from the reviewers and area editor; I am working on addressing their comments to submit the revised version soon.);
+* **Lopes da Silva, D.B.**, Sharkey, T., Song, Y., _A Bi-level Network Interdiction Problem to Minimize the Number of Active Special Arcs in the Maximum Flow_ (Revised version under review);
 * **Lopes da Silva, D.B.**, Sharkey, T., Song, Y., _Bi-objective Bi-level Network Interdiction Models with Application in Human Trafficking Disruption_ (working paper. I presented some nice results at the 2024 IISE Annual Conference & Expo);
 * **Lopes da Silva, D.B.**, Sharkey, T., Song, Y., _A Robust Bi-level Network Interdiction Problem with Application in Human Trafficking Disruption_ (working paper).
 
