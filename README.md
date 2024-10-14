@@ -25,9 +25,9 @@ This is an incredible transdisciplinary project consisting of researchers (at al
 University of Minnesota (advisor Dr. [Laura Martin](https://www.hhh.umn.edu/directory/lauren-martin)), The Research Triangle Institute (Dr. [Kelle Barrick](https://www.rti.org/expert/kelle-barrick)), as well as a survivor-centered advisory group. 
 
 **Papers:**
-* **Lopes da Silva, D.B.**, Sharkey, T., Song, Y., _A Bi-level Network Interdiction Problem to Minimize the Number of Active Special Arcs in the Maximum Flow_ (Revised version under review);
-* **Lopes da Silva, D.B.**, Sharkey, T., Song, Y., _Bi-objective Bi-level Network Interdiction Models with Application in Human Trafficking Disruption_ (working paper. I presented some nice results at the 2024 IISE Annual Conference & Expo);
-* **Lopes da Silva, D.B.**, Sharkey, T., Song, Y., _A Robust Bi-level Network Interdiction Problem with Application in Human Trafficking Disruption_ (working paper).
+* **Lopes da Silva, D.B.**, Sharkey, T., Song, Y., _A Bi-level Network Interdiction Problem to Minimize the Number of Active Special Arcs in the Maximum Flow_ (Second round review at the INFORMS Journal on Computing, 2023);
+* **Lopes da Silva, D.B.**, Sharkey, T., Song, Y., Mass, K.L., Ayler, T., Forliti, T., Friedman, J., Mariotti, M., Nelson, C., Barrick, K., Martin, L., Voller, V. _Bi-Objective Bi-level Network Interdiction Models for Effective Disruption in Human Trafficking Networks_ (Working paper, 2024).
+* **Lopes da Silva, D.B.**, Sharkey, T., Song, Y., _A Robust Bi-level Network Interdiction Problem with Application in Human Trafficking Disruption_ (Working paper, 2024).
 
 2. **Methods for estmating the survival signature of heterogeneous networks** (with Dr. [Kelly Sullivan](https://industrial-engineering.uark.edu/directory/index/uid/ksulliv/name/Kelly-Sullivan/)).
 
