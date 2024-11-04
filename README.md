@@ -3,10 +3,11 @@ Hi, my name is Daniel and I am a Ph.D. candidate in the [Department of Industria
 
 You can reach me at: dlopesd@clemson.edu.
 
-My CV can be found here (last update July 2024): [CV_DanielSilva](https://github.com/dblsBR/dblsBR/blob/ef60ef45cd86bee54228476c8a73a82da1ecad58/CV_DanielSilva.pdf), and here is my [Google Scholar page](https://scholar.google.com/citations?user=5xE4LwUAAAAJ&hl=pt-BR).
+My CV can be found here (last update October 2024): [CV_DanielSilva](CV_DanielSilva.pdf), and here is my [Google Scholar page](https://scholar.google.com/citations?user=5xE4LwUAAAAJ&hl=pt-BR).
 
 
 ### Updates (September 2024):
+* I presented part of our research on a Robust Bi-level Network Interdiction Problem inspired by Human Trafficking Disruption at the 2024 INFORMS Annual Meeting in Seattle in October.
 * Our Clemson University INFORMS Student Chapter was select to be recognized with the Magna Cum Laude Award at the 2024 INFORMS Annual Meeting in Seattle in October!
 * Our paper (with Dr. Kelly Sullivan, UARK) **An Optimization-Based Monte Carlo Method for Estimating the Two-Terminal Survival Signature of Networks with Two Component Classes** is published at [NRL](http://doi.org/10.1002/nav.22218).
 * I am teaching **IE3800 - Deterministic Operations Research** this Fall semester and I am extremely excited about it!
@@ -25,9 +26,9 @@ This is an incredible transdisciplinary project consisting of researchers (at al
 University of Minnesota (advisor Dr. [Laura Martin](https://www.hhh.umn.edu/directory/lauren-martin)), The Research Triangle Institute (Dr. [Kelle Barrick](https://www.rti.org/expert/kelle-barrick)), as well as a survivor-centered advisory group. 
 
 **Papers:**
-* **Lopes da Silva, D.B.**, Sharkey, T., Song, Y., _A Bi-level Network Interdiction Problem to Minimize the Number of Active Special Arcs in the Maximum Flow_ (Second round review at the INFORMS Journal on Computing, 2023);
-* **Lopes da Silva, D.B.**, Sharkey, T., Song, Y., Mass, K.L., Ayler, T., Forliti, T., Friedman, J., Mariotti, M., Nelson, C., Barrick, K., Martin, L., Voller, V. _Bi-Objective Bi-level Network Interdiction Models for Effective Disruption in Human Trafficking Networks_ (Working paper, 2024).
-* **Lopes da Silva, D.B.**, Sharkey, T., Song, Y., _A Robust Bi-level Network Interdiction Problem with Application in Human Trafficking Disruption_ (Working paper, 2024).
+* **Lopes da Silva, D.B.**, Sharkey, T., Song, Y., _A Bi-level Network Interdiction Problem to Minimize the Number of Active Special Arcs in the Maximum Flow_ (Revised version under review);
+* **Lopes da Silva, D.B.**, Sharkey, T., Song, Y., _Bi-objective Bi-level Network Interdiction Models with Application in Human Trafficking Disruption_ (working paper. I presented some nice results at the 2024 IISE Annual Conference & Expo);
+* **Lopes da Silva, D.B.**, Sharkey, T., Song, Y., _A Robust Bi-level Network Interdiction Problem with Application in Human Trafficking Disruption_ (working paper).
 
 2. **Methods for estmating the survival signature of heterogeneous networks** (with Dr. [Kelly Sullivan](https://industrial-engineering.uark.edu/directory/index/uid/ksulliv/name/Kelly-Sullivan/)).
 
@@ -63,7 +64,7 @@ During my Ph.D. program in Clemson, I was a TA for:
 ## Service, Communities, Outreach
 
 #### INFORMS
-I had the honor to serve as the president of the INFORMS Student Chapter at Clemson University (2023-2024, Magna Cum Laude Award), after having served as its vice-president in the 2022-2023 academic term (Magna Cum Laude Award 2023). Check our social pages to see what we have been up to lately: [LinkedIn](https://www.linkedin.com/in/informs-clemson-student-chapter-057b62286/), [X(Twitter)](https://twitter.com/ClemsonInforms), [website](https://cecas.clemson.edu/informs/). I have also served as the secretary of the INFORMS Student Chapter at the University of Arkansas during my M.S. program there (we received the Cum Laude Award 2022).
+I am the current president of the INFORMS Student Chapter at Clemson University (2023-2024), after having served as its vice-president in the 2022-2023 academic term (we received the Magna Cum Laude Award 2023). Check our social pages to see what we have been up to lately: [LinkedIn](https://www.linkedin.com/in/informs-clemson-student-chapter-057b62286/), [X(Twitter)](https://twitter.com/ClemsonInforms), [website](https://cecas.clemson.edu/informs/). I have also served as the secretary of the INFORMS Student Chapter at the University of Arkansas during my M.S. program there (we received the Cum Laude Award 2022).
 
 ### PET Engenharias (Tutorial Education Program in Engineering)
 During my undergraduate years at the [Federal Unviersity of Alagoas](https://ufal.br/) (Brazil), I was a member (and eventually the president) of the PET Engenharias [Facebook](https://www.facebook.com/petengenharias), [Instagram](https://www.instagram.com/pet.engenharias/), [Official Page](https://ufal.br/estudante/graduacao/programas/educacao-tutorial-pet/pet-engenharia) (Tutorial Education Program in Engineering), which consisted of a group of students guided by a faculty advisor and tasked with developing research, teaching, and outreach activities.
