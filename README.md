@@ -7,7 +7,7 @@ My CV can be found here (last update October 2024): [CV_DanielSilva](CV_DanielSi
 
 
 ### Updates (October 2024):
-* I presented part of our research on a Robust Bi-level Network Interdiction Problem inspired by Human Trafficking Disruption at the 2024 INFORMS Annual Meeting in Seattle in October.
+* I presented part of our research on a Robust Bi-level Network Interdiction Problem inspired by Human Trafficking Disruption at the 2024 INFORMS Annual Meeting in Seattle.
 * Our Clemson University INFORMS Student Chapter was select to be recognized with the Magna Cum Laude Award at the 2024 INFORMS Annual Meeting in Seattle in October!
 * Our paper (with Dr. Kelly Sullivan, UARK) **An Optimization-Based Monte Carlo Method for Estimating the Two-Terminal Survival Signature of Networks with Two Component Classes** is published at [NRL](http://doi.org/10.1002/nav.22218).
 * I am teaching **IE3800 - Deterministic Operations Research** this Fall semester and I am extremely excited about it!
